@@ -109,5 +109,5 @@ Anything missing kindly let us know at [Natsuki Support](https://t.me/RishabhHel
 
 ## Devs & Contributors
 
-#### • SADEW JAYASEKARA    »»  <a href="https://github.com/rishabhbhansingh1" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
+#### • SADEW JAYASEKARA    »»  <a href="https://github.com/rishabhbhansingh1" alt="rishabhbhansingh1"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
 #### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
