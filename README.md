@@ -104,7 +104,7 @@ $ python3 -m Natsuki
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Natsuki Support](https://t.me/NatsukiSupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Natsuki Support](https://t.me/RishabhHelpGroup) or simply submit a pull request on the readme.
 
 
 ## Devs & Contributors
