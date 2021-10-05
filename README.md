@@ -35,7 +35,7 @@
   <a href="https://github.com/Sadew451/Natsuki/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/12a67bfae430322ceb2e8.jpg" width="400"></a></p>
+<p align="center"><a href="https://Worldchattinggroupforall"><img src="https://telegra.ph/file/12a67bfae430322ceb2e8.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/sadew451/Natsuki/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/sadew451/Natsuki?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
